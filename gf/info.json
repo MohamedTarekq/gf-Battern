@@ -1,0 +1,21 @@
+{
+	"flags": "-iE",
+	"patterns": [
+"session=",
+"token=",
+"secret=",
+"AWS=",
+"access_token=",
+"Bearer=",
+"Slack=",
+"api-key=",
+"Access_Token=",
+"ACCOUNT_SID=",
+"Token=",
+"Algolia=",
+"client_id=",
+"csrf=",
+"api=",
+"api_key="
+]
+}
